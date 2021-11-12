@@ -25,7 +25,6 @@ import asyncio
 import subprocess
 from asyncio import sleep
 from plugins.nopm import User
-from youtube_dl import YoutubeDL
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from pytgcalls import GroupCallFactory
